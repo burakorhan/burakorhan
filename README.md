@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there! 👋
+<hr>
 
-<!--
-**burakorhan/burakorhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=burakorhan.visitor-badge)
 
-Here are some ideas to get you started:
+This is Burak Orhan, 2+ years experienced backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 More about me:
+<hr>
+
+- 🔭 I’m currently working on @<a href="https://onveo.tv" target="_blank">Onveo</a>,
+- 🌱 I’m currently learning Flutter. I'm always trying new challenges.
+- 📫 Reach me on <a href="www.linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>,
+- 💬 Open for helping with about to anything, feel free to ping me on <a href="https://superpeer.com/burakorhan" target="_blank">SuperPeer</a>,
+- 📺 Streaming at <a href="https://twitch.tv/cebraros" target="_blank">Twitch</a>, I'm streaming the games I play once in a while
+
+Pleased to meet you!
+
+### Contact
+<hr>
+-<a href="www.linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>
+-<a href="https://twitter.com/burakoorhan" target="_blank">Twitter</a>
+-<a href="https://twitch.tv/cebraros" target="_blank">Twitch</a>
+-<a href="https://superpeer.com/burakorhan" target="_blank">SuperPeer</a>
+
+
+
+
+
+
