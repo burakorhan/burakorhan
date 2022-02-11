@@ -19,7 +19,7 @@ Pleased to meet you!
 ### Contact
 <hr>
 
-- <a href="www.linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>
+- <a href="https://linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>
 - <a href="https://twitter.com/burakoorhan" target="_blank">Twitter</a>
 - <a href="https://twitch.tv/cebraros" target="_blank">Twitch</a>
 - <a href="https://superpeer.com/burakorhan" target="_blank">SuperPeer</a>
