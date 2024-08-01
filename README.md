@@ -1,9 +1,7 @@
 ### Hi there! 👋
 <hr>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=burakorhan.visitor-badge)
-
-This is Burak Orhan, 2+ years experienced backend developer.
+This is Burak Orhan, 4+ years experienced backend developer.
 
 ### 🧐 More about me:
 <hr>
