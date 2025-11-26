@@ -1,7 +1,7 @@
 ### Hi there! 👋
 <hr>
 
-This is Burak Orhan, 4+ years experienced backend developer.
+This is Burak Orhan, 5+ years experienced backend developer.
 
 ### 🧐 More about me:
 <hr>
@@ -9,7 +9,6 @@ This is Burak Orhan, 4+ years experienced backend developer.
 - 🔭 I’m currently working on @<a href="https://onveo.tv" target="_blank">Onveo</a>,
 - 🌱 I’m currently learning React Native. I'm always trying new challenges.
 - 📫 Reach me on <a href="www.linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>,
-- 💬 Open for helping with about to anything, feel free to ping me on <a href="https://superpeer.com/burakorhan" target="_blank">SuperPeer</a>,
 - 📺 Streaming at <a href="https://twitch.tv/cebraros" target="_blank">Twitch</a>, I'm streaming the games I play once in a while
 
 Pleased to meet you!
@@ -20,7 +19,6 @@ Pleased to meet you!
 - <a href="https://linkedin.com/in/burakoorhan" target="_blank">Linkedin</a>
 - <a href="https://twitter.com/burakoorhan" target="_blank">Twitter</a>
 - <a href="https://twitch.tv/cebraros" target="_blank">Twitch</a>
-- <a href="https://superpeer.com/burakorhan" target="_blank">SuperPeer</a>
 
 
 
